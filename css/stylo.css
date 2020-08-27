@@ -21,3 +21,10 @@ body {
     background: rgb(0, 118, 126);
     color: #fff;
 }
+
+#footer {
+    color: yellow;
+    font-size: 10px;
+    padding: 10px;
+    border: 1px dotted white;
+}
